@@ -1,0 +1,19 @@
+main.o: main.c /home/pjmeyer/Jaguar/lib/include/jagdefs.h \
+ /home/pjmeyer/Jaguar/lib/include/tom.h \
+ /home/pjmeyer/Jaguar/lib/include/stdint.h \
+ /home/pjmeyer/Jaguar/lib/include/gpu.h \
+ /home/pjmeyer/Jaguar/lib/include/jerry.h \
+ /home/pjmeyer/Jaguar/lib/include/jagtypes.h \
+ /home/pjmeyer/Jaguar/lib/include/jagtypes.h \
+ /home/pjmeyer/Jaguar/lib/include/stdlib.h \
+ /home/pjmeyer/Jaguar/lib/include/string.h \
+ /home/pjmeyer/Jaguar/lib/include/interrupt.h \
+ /home/pjmeyer/Jaguar/lib/include/display.h \
+ /home/pjmeyer/Jaguar/lib/include/routine.h \
+ /home/pjmeyer/Jaguar/lib/include/stdint.h \
+ /home/pjmeyer/Jaguar/lib/include/op.h \
+ /home/pjmeyer/Jaguar/lib/include/sprite.h \
+ /home/pjmeyer/Jaguar/lib/include/screen.h \
+ /home/pjmeyer/Jaguar/lib/include/joypad.h \
+ /home/pjmeyer/Jaguar/lib/include/console.h \
+ /home/pjmeyer/Jaguar/lib/include/stdio.h
